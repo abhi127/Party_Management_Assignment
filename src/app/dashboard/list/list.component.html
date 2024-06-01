@@ -10,6 +10,7 @@
             <th style="width: 20%">Credit Limit</th>
         </tr>
     </thead>
+    
     <tbody>
         <tr *ngFor="let party of partyList | slice: (page-1) * pageSize : page * pageSize; track party">
             <td>{{party.company_name}}</td>
