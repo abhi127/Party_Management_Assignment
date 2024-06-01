@@ -1,4 +1,5 @@
 # GFTPLPartyManagement
+The Project has a simple jwt token based login auth and a complete Crud for Party management implemented with provided api collection
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
 
